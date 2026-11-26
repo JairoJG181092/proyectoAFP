@@ -17,3 +17,8 @@ Overlays, page segments (IPS), BCOCA, fuentes outline, doble byte, otras compres
 
 ## Pendiente (fase 4)
 Varios archivos en paralelo, division del PDF en partes y reanudacion.
+<<<<<<< HEAD
+=======
+
+## Mañana realizamos el cambio con la fase 4
+>>>>>>> fecde05 (Cambios de archivos y prueba completa de conversion)
