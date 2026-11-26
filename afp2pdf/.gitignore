@@ -1,0 +1,6 @@
+build/
+bin/afp2pdf.jar
+*.afp
+*.AFP
+*.pdf
+*.tmp
